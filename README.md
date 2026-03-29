@@ -16,15 +16,20 @@ Controls :
 
 
 &#x09;	W / ↑ – Move forward
+
 &#x09;	S / ↓ – Move backward
+
 &#x09;	A / ← – Turn left
+
 &#x09;	D / → – Turn right
 
 
 
 &#x09;Actions :
 
+
 &#x09;	Space – Jump, swim, roll
+
 &#x09;	Ctrl – Action (grab, interact, climb, etc.)
 
 
