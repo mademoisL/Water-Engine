@@ -10,6 +10,7 @@ Getting Started :
 
 
 
+
 Controls :
 
 &#x09;Movement :
@@ -25,12 +26,14 @@ Controls :
 
 
 
+
 &#x09;Actions :
 
 
 &#x09;	Space – Jump, swim, roll
 
 &#x09;	Ctrl – Action (grab, interact, climb, etc.)
+
 
 
 
