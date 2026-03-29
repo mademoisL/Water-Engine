@@ -3,7 +3,7 @@ Play as Lara Croft in a new kind of adventure. A village dear to one of her frie
 
 Getting Started :
 
-1. Click on the "Releases" section (bottom right of this page)
+1. Click on the "Releases" section (on the right panel of the page)
 2. Download the WATER_ENGINE.zip
 3. Run PLAY.exe to launch the game
 4. Load the only available level
