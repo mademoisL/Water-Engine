@@ -10,6 +10,8 @@ Getting Started :
 5. Have fun !
 
 
+We just added our Lua scripts here if you want to see the main elements that bring our game to life !
+
 
 
 Controls :
